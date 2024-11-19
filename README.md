@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nathan!
+🚀 Aspiring Software Engineer  
+🎓 Studying at Brigham Young University-Idaho  
+🌱 Currently learning React and diving into web development  
 
-<!--
-**nathanrjackson/nathanrjackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+- **Programming Languages**: JavaScript, HTML5, CSS3, Python
+- **Frameworks**: In progress
+- **Tools**: Git, VS Code  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+- [GitHub](https://github.com/nathanrjackson)
