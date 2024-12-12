@@ -1,11 +1,10 @@
 # 👋 Hi there, I'm Nathan!
-🚀 Aspiring Software Engineer  
+🚀 Aspiring Computer Scientist  
 🎓 Studying at Brigham Young University-Idaho  
-🌱 Currently learning React and diving into web development  
+🌱 Currently learning SQL and diving into databases  
 
 ## 🛠 Skills
-- **Programming Languages**: JavaScript, HTML5, CSS3, Python
-- **Frameworks**: In progress
+- **Programming Languages**: Python, JavaScript, HTML5, CSS3
 - **Tools**: Git, VS Code  
 
 ## 📫 Let's Connect!
