@@ -4,8 +4,8 @@
 🌱 Currently learning SQL and diving into databases
 
 ## 🛠 Skills
-- **Programming Languages**: Python, C#, SQL, HTML5, CSS3, JavaScript
-- **Tools**: Git, VS Code, MySQL, Tableau
+- **Programming Languages**: Python, C#, SQL, JavaScript, HTML, CSS
+- **Tools**: VS Code, Git, MySQL, Tableau
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/nathan-jackson-103444339/)
